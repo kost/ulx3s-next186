@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export ulx3s_url=https://github.com/alpin3/ulx3s/releases/download/v2019.12.26/ulx3s-2019.12.26-linux-x86_64.tar.gz
+export ulx3s_url=https://github.com/alpin3/ulx3s/releases/download/v2019.12.29/ulx3s-2019.12.29-linux-x86_64.tar.gz
 export ulx3s_dist=/dist/
 
  yum update -y ; \
